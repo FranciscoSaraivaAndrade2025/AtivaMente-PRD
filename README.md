@@ -1,0 +1,2 @@
+AtivaMente é uma plataforma digital de jogos educativos para desenvolvimento cognitivo, baseada nas abordagens de Reuven Feuerstein (Modificabilidade Cognitiva Estrutural) e Lev Vygotsky (Zona de Desenvolvimento Proximal).
+O objetivo é oferecer um ambiente interativo com múltiplas categorias de jogos, acompanhados por um Assistente Digital IA Mediador que orienta, dá feedback e sugere estratégias de aprendizagem personalizadas.
